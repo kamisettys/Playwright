@@ -1,0 +1,5 @@
+username,password,expected,run
+standard_user,secret_sauce,success,false
+problem_user,secret_sauce,success,false
+visual_user,secret_sauce,success,false
+error_user,secret_sauce,success,false
